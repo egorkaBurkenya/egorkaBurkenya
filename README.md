@@ -4,15 +4,12 @@
 - 🌱 I’m currently learning everything 🤣
 - 🎓 I'm going to College (ithub)
 - 🔥 I'm trying to do something new.
-- 🤯
 
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="28px" src="https://image.flaticon.com/icons/svg/3233/3233071.svg" />][website]
 [<img align="left" alt="codeSTACKr.com" width="28px" src="https://image.flaticon.com/icons/svg/2111/2111644.svg" />][telegram]
-[<img align="left" alt="codeSTACKr.com" width="28px" src="https://image.flaticon.com/icons/svg/733/733583.svg" />][vk]
 
 <br />
 
@@ -28,14 +25,10 @@
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Vue" width="26px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/708405/images/3842564/Vue_Js_500x500.png" />
-
-<img align="left" alt="Nginx" width="26px" src="https://www.comp-web-pro.ru/wp-content/uploads/2019/05/kak-skryt-fakt-ispol-zovaniya-nginx-na-servere.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
