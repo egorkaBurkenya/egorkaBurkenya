@@ -7,7 +7,7 @@
 
 <br />
 
-### Connect with me:
+### Contact me:
 
 [<img align="left" alt="codeSTACKr.com" width="28px" src="https://image.flaticon.com/icons/svg/2111/2111644.svg" />][telegram]
 
