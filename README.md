@@ -49,6 +49,5 @@
 <img align="left" alt="Python" width="26px" src="https://www.clipartmax.com/png/full/83-834304_course-key-features-python-logo.png" />
 <img align="left" alt="Flask" width="26px" src="https://www.seekpng.com/png/full/875-8753366_flask-framework-logo-svg.png" />
 
-[website]: https://taki.pro
-[vk]: https://vk.com/nik19ta
-[telegram]: http://t.me/nik19ta
+[vk]: https://vk.com/s777s777s777ss
+[telegram]: http://t.me/egorefo
