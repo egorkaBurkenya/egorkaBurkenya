@@ -16,7 +16,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="28px" src="https://image.flaticon.com/icons/svg/3233/3233071.svg" />][website]
 [<img align="left" alt="codeSTACKr.com" width="28px" src="https://image.flaticon.com/icons/svg/2111/2111644.svg" />][telegram]
 [<img align="left" alt="codeSTACKr.com" width="28px" src="https://image.flaticon.com/icons/svg/733/733583.svg" />][vk]
 
