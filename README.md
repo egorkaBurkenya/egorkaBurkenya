@@ -2,7 +2,7 @@
 
 ## I'm a Student, Frontend and Backend Developer!
 - 🌱 I’m currently learning everything 🤣
-- 🎓 I'm going to College (ithub)
+- 🎓 student of ItHub College 
 - 🔥 I'm trying to do something new.
 
 <br />
