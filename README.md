@@ -12,11 +12,15 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=egorkaBurkenya&show_icons=true&include_all_commits=true)](https://github.com/egorkaBurkenya/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egorkaBurkenya&layout=compact)](https://github.com/egorkaBurkenya/github-readme-stats)
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="28px" src="https://image.flaticon.com/icons/svg/3233/3233071.svg" />][website]
 [<img align="left" alt="codeSTACKr.com" width="28px" src="https://image.flaticon.com/icons/svg/2111/2111644.svg" />][telegram]
 [<img align="left" alt="codeSTACKr.com" width="28px" src="https://image.flaticon.com/icons/svg/733/733583.svg" />][vk]
+
+<br />
 
 ### Languages and Tools:
 
