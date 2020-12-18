@@ -1,4 +1,4 @@
-## Hey 👋, This is Egor Burkenya 
+## Hey 👋, This is Egorka
 [![Gmail Badge](https://img.shields.io/badge/-sleepykkuro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sleepykkuro@gmail.com)](mailto:sleepykkuro@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://github.com/egorkaBurkenya-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://github.com/egorkaBurkenya/)](https://www.linkedin.com/in/https://github.com/egorkaBurkenya/) [![Github Badge](https://img.shields.io/badge/-egorkaBurkenya-grey?style=flat&logo=github&logoColor=white&link=https://github.com/egorkaBurkenya/)](https://www.github.com/egorkaBurkenya/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://www.notion.so/a4eb6911c7974b5bb0103fce95d9db87/)](https://www.notion.so/a4eb6911c7974b5bb0103fce95d9db87/) <p align='left'>🥱Hey there ! did you go to my github ? I hope that you will find here what you are looking for (●'◡' ●)
 * 🐥My name is Egor and I'm from Russia. 
