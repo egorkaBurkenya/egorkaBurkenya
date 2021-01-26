@@ -5,7 +5,7 @@
   
   🥱Hey there ! did you go to my github ? I hope that you will find here what you are looking for (●'◡' ●)
   * 🐥My name is Egor and I'm from Russia. 
-  * 🎓I am studying to be a programmer at ITHUB College in my second year.
+  * 🎓I studying to be a programmer at ITHUB College in my second year.
   * 🤖My eyes are burning madly when it comes to writing code and creating something new ! so if you have cool ideas you can invite me to help you or implement your idea
   * 🎶I love good music and anime !
   * Have a nice day (❁´◡`❁)</p><p align='left'> You can view my resume <a href='https://www.notion.so/a4eb6911c7974b5bb0103fce95d9db87 ' target=_blank><u>here</u>.</a></p>
