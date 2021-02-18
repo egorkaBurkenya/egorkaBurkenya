@@ -12,7 +12,7 @@
 
 ## A little more about me...(*￣０￣)ノ
 ```javascript
-const Egorka = {
+let Egorka = {
   pronouns: "He" | "Him",
   code: [ 
     { 
