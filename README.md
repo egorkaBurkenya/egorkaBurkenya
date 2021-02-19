@@ -28,7 +28,7 @@
 ### > Documentation
 ***
 <p align='center'>
-<img src="./Egorka.png" width="630" height="500">
+<img src="./Egorka.png" >
 </p>
 
 
