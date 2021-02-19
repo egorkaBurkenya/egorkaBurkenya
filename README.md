@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=egorkaBurkenya&style=flat-square&color=blueviolet)
 
-***
+<!-- *** -->
 
 <p align="center">
   <a href="mailto:despicablegrand@gmail.com">Gmail</a> -
