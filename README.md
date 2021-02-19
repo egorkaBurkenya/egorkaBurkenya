@@ -1,14 +1,43 @@
-# Hey 👋, This is Egorka 🔮✨
-[![Gmail Badge](https://img.shields.io/badge/-sleepykkuro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sleepykkuro@gmail.com)](mailto:sleepykkuro@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://github.com/egorkaBurkenya-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://github.com/egorkaBurkenya/)](https://www.linkedin.com/in/https://github.com/egorkaBurkenya/) [![Github Badge](https://img.shields.io/badge/-egorkaBurkenya-grey?style=flat&logo=github&logoColor=white&link=https://github.com/egorkaBurkenya/)](https://www.github.com/egorkaBurkenya/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://www.notion.so/a4eb6911c7974b5bb0103fce95d9db87/)](https://www.notion.so/a4eb6911c7974b5bb0103fce95d9db87/) <p align='left'>
-<img src="https://i.imgur.com/pmoLfeY.gif?noredirect" width="100" height="111">
-  
+<h1 align='center'> This is Egorka (◡‿◡)</h1>
+
+<div align='center'>
+  <a href="">gmail </a> 
+  <a href="">telegram </a> 
+  <a href="">instagram </a>
+</div>
+
+<style>
+   div {
+    padding: 20px; /* Поля вокруг текста */
+    margin-top: 2%; /* Отступ сверху */
+   }
+</style>
+
+<p align='center'>
+<img src="https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif" width="300" height="180">
+</p>
+
+<div align='left'>
+
+<h1>preview O(∩_∩)O</h1>
+
   🥱Hey there ! did you go to my github ? I hope that you will find here what you are looking for (●'◡' ●)
-  * 🐥My name is Egor and I'm from Russia. 
-  * 🎓I studying to be a programmer at ITHUB College in my second year.
-  * 🤖My eyes are burning madly when it comes to writing code and creating something new ! so if you have cool ideas you can invite me to help you or implement your idea
-  * 🎶I love good music and anime !
-  * Have a nice day (❁´◡`❁)</p><p align='left'> You can view my resume <a href='https://www.notion.so/a4eb6911c7974b5bb0103fce95d9db87 ' target=_blank><u>here</u>.</a></p>
+
+  🐥My name is Egor and I'm from Russia. 
+
+  🎓I studying to be a programmer at ITHUB College in my second year.
+
+  🤖My eyes are burning madly when it comes to writing code and creating something new ! so if you have cool ideas you can invite me to help you or implement your idea
+
+  🎶I love good music and anime ! 
+  <iframe src="https://open.spotify.com/embed/playlist/5rwAPuYc7SFOHZw63wQPsW" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <!-- Have a nice day (❁´◡`❁) -->
+  <p align='center'> You can view my resume => <a href='https://www.notion.so/a4eb6911c7974b5bb0103fce95d9db87 ' target=_blank><u>here</u>.</a></p>
+
+</div>
+
+**** 
+
 
 ## A little more about me...(*￣０￣)ノ
 ```javascript
