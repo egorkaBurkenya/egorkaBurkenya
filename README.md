@@ -6,7 +6,7 @@
   <a href="">instagram </a>
 </div>
 
-<style>
+<style style="display: none;">
    div {
     padding: 20px; /* Поля вокруг текста */
     margin-top: 2%; /* Отступ сверху */
@@ -30,7 +30,10 @@
   🤖My eyes are burning madly when it comes to writing code and creating something new ! so if you have cool ideas you can invite me to help you or implement your idea
 
   🎶I love good music and anime ! 
+  <figure>
   <iframe src="https://open.spotify.com/embed/playlist/5rwAPuYc7SFOHZw63wQPsW" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  </figure>
+
   <!-- Have a nice day (❁´◡`❁) -->
   <p align='center'> You can view my resume => <a href='https://www.notion.so/a4eb6911c7974b5bb0103fce95d9db87 ' target=_blank><u>here</u>.</a></p>
 
