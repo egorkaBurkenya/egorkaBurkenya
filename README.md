@@ -1,17 +1,14 @@
 <h1 align='center'> This is Egorka (◡‿◡)</h1>
 
-<div align='center'>
+<div align='center' style="
+padding: 20px; 
+margin-top: 2%;
+">
   <a href="">gmail </a> 
   <a href="">telegram </a> 
   <a href="">instagram </a>
 </div>
 
-<style style="display: none;">
-   div {
-    padding: 20px; /* Поля вокруг текста */
-    margin-top: 2%; /* Отступ сверху */
-   }
-</style>
 
 <p align='center'>
 <img src="https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif" width="300" height="180">
@@ -30,9 +27,7 @@
   🤖My eyes are burning madly when it comes to writing code and creating something new ! so if you have cool ideas you can invite me to help you or implement your idea
 
   🎶I love good music and anime ! 
-  <figure>
-  <iframe src="https://open.spotify.com/embed/playlist/5rwAPuYc7SFOHZw63wQPsW" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-  </figure>
+  
 
   <!-- Have a nice day (❁´◡`❁) -->
   <p align='center'> You can view my resume => <a href='https://www.notion.so/a4eb6911c7974b5bb0103fce95d9db87 ' target=_blank><u>here</u>.</a></p>
