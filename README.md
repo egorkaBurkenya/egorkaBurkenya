@@ -43,6 +43,9 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egorkaBurkenya&layout=compact&theme=radical&bg_color=0000&show_icons=false&hide_border=true&langs_count=8&text_color=fff&title_color=fff)](https://github.com/egorkaBurkenya)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egorkaBurkenya&layout=demo&theme=radical&bg_color=0000&show_icons=false&hide_border=true&langs_count=100&text_color=1ac8ff&title_color=FF659C)](https://github.com/egorkaBurkenya)
+
+
+
 
 ## Below you can find my cool repositories (o゜▽゜)o☆
