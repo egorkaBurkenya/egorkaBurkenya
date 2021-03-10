@@ -18,7 +18,7 @@
 
 ### > preview O(∩_∩)O
   *** 
-* 🥱Hey there ! did you go to my github ? I hope that you will find here what you are looking for (●'◡' ●)
+* 🥱Hey there! did you go to my github ? I hope that you will find here what you are looking for (●'◡' ●)
 * 🐥My name is Egor and I'm from Russia. 
 * 🎓I studying to be a programmer at ITHUB College in my second year.
 * 🤖My eyes are burning madly when it comes to writing code and creating something new ! so if you have cool ideas you can invite me to help you or implement your idea
