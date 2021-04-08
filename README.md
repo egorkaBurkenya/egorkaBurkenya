@@ -23,7 +23,7 @@
 * 🎓I studying to be a programmer at ITHUB College in my second year.
 * 🤖My eyes are burning madly when it comes to writing code and creating something new ! so if you have cool ideas you can invite me to help you or implement your idea
 * 🎶I love good music and anime ! Сheck out my [Anime](https://www.notion.so/5fcc8a03cfe9416c81343a8375418534?v=fb83de3dd4534cce81bcaff59545dcbd) list and [Spotify playlists](https://open.spotify.com/user/312hndawxro64smna4szdxaj4ccq?si=P0WZP4bVQmCkALj5g-SHzw)
-<p align='center'> You can view my resume => <a href='https://www.notion.so/a4eb6911c7974b5bb0103fce95d9db87 ' target=_blank><u>here</u>.</a></p>
+<p align='center'> You can view my CV => <a href='https://www.notion.so/a4eb6911c7974b5bb0103fce95d9db87 ' target=_blank><u>here</u>.</a></p>
 
 ### > i m playing Nintedo Switch
 
