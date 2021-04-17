@@ -8,31 +8,26 @@ I am a creative student, full-stack developer. From Russia, based in Moscow
 
 ## Main skills
 
-<div style="display: flex; align-items: flex-start; flex-wrap: wrap; justify-content: space-between;">
-    <div>
-        <p>Frontend development, UX/UI</p>
-        <div style="margin-top: 20px;">
-            <p>Backend development</p>
-            <p>Strategic thinking</p>
-        </div>
-    </div>
-    <div>
-        <p>JavaScript, CSS, HTML, React, Next, Svelte</p>
-        <div style="margin-top: 20px;">
-            <p>Graphic design</p>
-            <p>Mindfulness</p>
-        </div>
-    </div>
-    <div>
-        <p>Photoshop</p>
-    </div>
-    <div>
-        <p>Responsibility, </p>
-        <div style="margin-top: 20px;">
-            <p>Graphic design</p>
-            <p>Storytelling</p>
-        </div>
-    </div>
-    
-</div>
+<br/>
+
+* Frontend development, UX/UI 
+* Backend development  
+* Strategic thinking
+
+<br/>
+
+* JavaScript, CSS, HTML, React, Next, Svelte
+* Graphic design
+* Mindfulness
+
+<br/>
+
+* Photoshop
+
+<br/>
+
+* Responsibility
+* Storytelling
+
+
 
