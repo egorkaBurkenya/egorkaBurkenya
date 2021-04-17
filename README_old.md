@@ -1,6 +1,6 @@
 <h2 align='center'> egorka.is() </h2>
 
-![](https://komarev.com/ghpvc/?username=egorkaBurkenya&style=flat-square&color=blueviolet)
+
 
 <!-- *** -->
 

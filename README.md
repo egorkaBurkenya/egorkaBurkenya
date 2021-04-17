@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Hi</h1>
-</body>
-</html>
+# about()
+
+[Instagram](https://www.instagram.com/kurospitt) 
+[Telegram](https://t.me/egorefo) 
+view my CV -> [here](https://www.notion.so/a4eb6911c7974b5bb0103fce95d9db87)
