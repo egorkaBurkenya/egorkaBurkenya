@@ -30,15 +30,15 @@ I am a creative student, full-stack developer. From Russia, based in Moscow
 * Storytelling
 
 ## Tools/years
-* JavaScript/*+1 year*
-* Python/*+2 years*
-* HTML/*~2 year*
-* CSS/*~2 year*
-* NodeJs/*+2 years*
-* AdobePhotoshop/*+3 years*
-* Next/*in progress...*
-* React/*in progress...*
-* Golang/*in progress...*
-* Typescript/*in progress...*
-* Svelte/*in progress...*
+* `JavaScript`/*+1 year*
+* `Python`/*+2 years*
+* `HTML`/*~2 year*
+* `CSS`/*~2 year*
+* `NodeJs`/*+2 years*
+* `AdobePhotoshop`/*+3 years*
+* `Next`/*in progress...*
+* `React`/*in progress...*
+* `Golang`/*in progress...*
+* `Typescript`/*in progress...*
+* `Svelte`/*in progress...*
 
