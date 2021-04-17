@@ -1,6 +1,6 @@
 # about()
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row;">
 
 <p><a href="https://www.instagram.com/kurospitt">Instagram</a></p>
 <p style="margin-left: 20px;"><a href="https://t.me/egorefo">Telegram</a></p>
