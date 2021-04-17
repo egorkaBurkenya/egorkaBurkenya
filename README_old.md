@@ -1,4 +1,4 @@
-<h2 align='center'> This is Egorka (◡‿◡)</h2>
+<h2 align='center'> egorka.is() </h2>
 
 ![](https://komarev.com/ghpvc/?username=egorkaBurkenya&style=flat-square&color=blueviolet)
 
@@ -23,6 +23,29 @@
 * My eyes are burning madly when it comes to writing code and creating something new ! so if you have cool ideas you can invite me to help you or implement it.
 * I love good music and anime ! Сheck out my [Anime](https://www.notion.so/5fcc8a03cfe9416c81343a8375418534?v=fb83de3dd4534cce81bcaff59545dcbd) list and [Spotify playlists](https://open.spotify.com/user/312hndawxro64smna4szdxaj4ccq?si=P0WZP4bVQmCkALj5g-SHzw)
 <p align='center'> You can view my CV => <a href='https://www.notion.so/a4eb6911c7974b5bb0103fce95d9db87 ' target=_blank><u>here</u>.</a></p>
+
+
+<h3>> mainSkills</h3>  
+
+*** 
+
+<div style='display: flex;'>
+  <div>
+    <p>Front-end development</p>
+    <p>Python</p>
+    <p>Golang</p>
+  </div>
+<div style='margin-left: 100px;'>
+    <p>NodeJS</p>
+    <p>Python</p>
+    <p>Golang</p>
+</div>
+<div style='margin-left: 100px;'>
+    <p>JavaScript - HTML - CSS</p>
+    <p>ReactJS</p>
+    <p>NextJS</p>
+</div>
+</div>
 
 
 ### > i m playing Nintedo Switch
