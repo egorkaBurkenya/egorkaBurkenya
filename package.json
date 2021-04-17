@@ -1,0 +1,20 @@
+{
+  "name": "egorkaBurkenya",
+  "version": "1.0.0",
+  "description": "<h2 align='center'> This is Egorka (◡‿◡)</h2>",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egorkaBurkenya/egorkaBurkenya.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egorkaBurkenya/egorkaBurkenya/issues"
+  },
+  "homepage": "https://github.com/egorkaBurkenya/egorkaBurkenya#readme"
+}
