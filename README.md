@@ -37,9 +37,9 @@ I am a creative student, full-stack developer. From Russia, based in Moscow
 * `CSS`/*~2 year*
 * `NodeJs`/*+2 years*
 * `AdobePhotoshop`/*+3 years*
-* `Next`/*in progress...*
-* `React`/*in progress...*
-* `Golang`/*in progress...*
+* `Next`/*+1 | in progress...*
+* `React`/*+1 | in progress...*
+* `Golang`/*1 | in progress...*
 * `Typescript`/*in progress...*
 * `Svelte`/*in progress...*
 
