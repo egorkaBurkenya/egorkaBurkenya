@@ -1,9 +1,8 @@
 # about()
-[Instagram](https://www.instagram.com/kurospitt) - [Telegram](https://t.me/egorefo) - [Resume](https://www.notion.so/a4eb6911c7974b5bb0103fce95d9db87)
 
-I am a creative student, full-stack developer. From Russia, based in Moscow
+I am a creative full-stack developer, based in Bali
 
-*// 3+ years of experience*
+*// 6+ years of experience*
 
 ## Main skills
 
@@ -31,15 +30,15 @@ I am a creative student, full-stack developer. From Russia, based in Moscow
 * Storytelling
 
 ## Tools/years
-* `JavaScript`/*+1 year*
-* `Python`/*+2 years*
-* `HTML`/*~2 year*
-* `CSS`/*~2 year*
-* `NodeJs`/*+2 years*
+* `JavaScript`/*+3 year*
+* `Python`/*+6 years*
+* `HTML`/*~5 year*
+* `CSS`/*~5 year*
+* `NodeJs`/*+5 years*
 * `AdobePhotoshop`/*+3 years*
-* `Next`/*+1 | in progress...*
-* `React`/*+1 | in progress...*
-* `Golang`/*1 | in progress...*
+* `Next`/*+4 | in progress...*
+* `React`/*+5 | in progress...*
+* `Golang`/*2 | in progress...*
 * `Typescript`/*in progress...*
 * `Svelte`/*in progress...*
 
