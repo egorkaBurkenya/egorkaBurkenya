@@ -15,7 +15,7 @@
 
 I'm a Full Stack Developer with commercial experience in building complex, high-load systems. My passion is solving unconventional problems and continuously learning new technologies.
 
-Recently, I've been deeply involved in the **TON** ecosystem, developing smart contracts with **FunC**, building infrastructure, and creating indexers.
+Recently, I've been deeply involved in the **TON** ecosystem, developing smart contracts with **FunC**, building infrastructure, and using indexers.
 
 On the backend, I actively use a stack including **Go**, **Nest.js**, **Kafka**, and **Debezium** to build asynchronous and fault-tolerant microservices, often using **Prisma** for database interactions.
 
