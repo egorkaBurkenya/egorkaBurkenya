@@ -13,11 +13,12 @@
 
 ### 🚀 About Me
 
-I'm a Full Stack Developer with commercial experience in building complex, high-load systems. My passion is solving unconventional problems and continuously learning new technologies.
+I'm a Full Stack Developer with commercial experience in building complex, high-load systems. My passion lies in solving unconventional problems and continuously learning new technologies.
 
-Recently, I've been deeply involved in the **TON** ecosystem, developing smart contracts with **FunC**, building infrastructure, and using indexers.
+Recently, I've been deeply involved in the **TON** ecosystem, where I develop smart contracts with **FunC**, build infrastructure, and **operate indexers**.
 
-On the backend, I actively use a stack including **Go**, **Nest.js**, **Kafka**, and **Debezium** to build asynchronous and fault-tolerant microservices, often using **Prisma** for database interactions.
+On the backend, I leverage a wide range of tools including **Go**, **Python**, and **Node.js (NestJS)** to build asynchronous and fault-tolerant microservices, often using ORMs like **Prisma** and **SQLAlchemy**.
+
 
 ---
 
